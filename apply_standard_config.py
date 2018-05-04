@@ -5,7 +5,8 @@ import getpass
 By Charles Zuo
 04/25/2018
 
-This script applies a standard config in the config.txt file to every device in the devices.txt file.  Since the config is standard, this script is faster than apply_config_dynamic.py
+This script applies a standard config in the config.txt file to every device in the devices.txt file.
+
 '''
 
 devices_completed = [] #Devices that had successful configurations applied to them are saved here
