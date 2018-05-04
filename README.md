@@ -2,4 +2,4 @@
 Automate all the things
 
 
-limited error handling, proceed with caution.
+There is limited error handling here, so ensure that you did not make any syntax mistakes in your config.txt file
