@@ -1,2 +1,5 @@
 # network_automation
-automating manual configs
+Automate all the things
+
+
+limited error handling, proceed with caution.
