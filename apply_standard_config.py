@@ -1,4 +1,4 @@
-from netmiko import ConnectHandler #Download by entering 'pip install netmiko' into the CLI
+from netmiko import ConnectHandler
 import getpass
 
 '''
