@@ -1,0 +1,16 @@
+#This is a template configuration that can be applied to all devices
+
+conf t
+int eth1/1
+switchport mode access
+switchport access vlan 10
+
+int eth 1/2
+switchport mode access
+switchport access vlan 10
+
+int eth 1/3
+switchport mode trunk
+switchport trunk allowed vlan 10,20,30
+
+do wr
