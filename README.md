@@ -1,5 +1,4 @@
 # network_automation
 Automate all the things
 
-
-There is limited error handling here, so ensure that you did not make any syntax mistakes in your config.txt and devices.txt file
+Apply the config in config.txt to all devices in device.txt
